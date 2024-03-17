@@ -12,7 +12,7 @@ const Header = () => {
       >
         <div className="container-fluid">
           <LinkContainer to="/">
-            <Nav.Link className="navbar-brand" >
+            <Nav.Link className="navbar-brand text-primary" >
               eventbrite
             </Nav.Link>
           </LinkContainer>
